@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>fragmentshader.glsl</file>
+        <file>vertexshader.glsl</file>
+        <file>skyboxvertexshader.glsl</file>
+        <file>terrainfragmentshader.glsl</file>
+        <file>terrainvertexshader.glsl</file>
+        <file>skyboxfragmentshader.glsl</file>
+        <file>boundfragmentshader.glsl</file>
+        <file>boundvertexshader.glsl</file>
+        <file>thumbnailfragmentshader.glsl</file>
+        <file>thumbnailvertexshader.glsl</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>font_awesome_6_regular_free.otf</file>
+        <file>font_awesome_6_solid_free.otf</file>
+        <file>corbel.ttf</file>
+        <file>Deng.ttf</file>
+        <file>Dengb.ttf</file>
+        <file>Dengl.ttf</file>
+    </qresource>
+</RCC>
